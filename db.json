@@ -17,6 +17,12 @@
             "titulo": "A Final de 1994",
             "capa": "https://github.com/leandrol11/img_cinetag/blob/main/copa94.png?raw=true",
             "link": "https://youtu.be/ebRm3vw0meA"
+        },
+        {
+            "id": 4,
+            "titulo": "A Final de 2006",
+            "capa": "https://github.com/leandrol11/img_cinetag/blob/main/copa06.png?raw=true",
+            "link": "https://youtu.be/EN0pp_Sza1w"
         }
     ]
 }
