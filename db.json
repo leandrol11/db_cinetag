@@ -1,0 +1,22 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "A Final de 2010",
+            "capa": "https://github.com/leandrol11/img_cinetag/blob/main/copa10.png",
+            "link": "https://www.youtube.com/watch?v=_Zyu9H5lhh8&list=PLsFWLnYCEXEXzQ11bkDW07sESXD6lthlT&index=6"
+        },
+        {
+            "id": 2,
+            "titulo": "A Final de 2022",
+            "capa": "https://github.com/leandrol11/img_cinetag/blob/main/copa22.png",
+            "link": "https://www.youtube.com/watch?v=xa7lT_vzzLM"
+        },
+        {
+            "id": 3,
+            "titulo": "A Final de 1994",
+            "capa": "https://github.com/leandrol11/img_cinetag/blob/main/copa94.png",
+            "link": "https://www.youtube.com/watch?v=ebRm3vw0meA&list=PLsFWLnYCEXEXzQ11bkDW07sESXD6lthlT&index=7"
+        }
+    ]
+}
